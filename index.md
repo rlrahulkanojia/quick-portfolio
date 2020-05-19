@@ -25,9 +25,18 @@ Implemented Efficient Net Architecture <br>
 
 - **Detection and Monitoring agriculture field**
 
-    Used computer Vision techniques like errosion, Gaussian Blur etc for enhancement of input received and tensorflow Object detection, after training on custom Dataset for object detection. The model recieved its input from drone camera and details of the output can be monitored remotely.
+    <ul> Computer Vision techniques like errosion, Gaussian Blur etc for enhancement of input received.
+    <ul> Tensorflow Object detection, after training on custom Dataset for object detection. 
+    <ul> The model recieved its input from drone camera and details of the output can be monitored remotely.
 
-- **Person Detection Using Tensorflow Object detection API**
+- **Custom Person Detection Using Tensorflow Object detection API**
+
+    <ul> Used Tensorflow object detection with some modifications
+    <ul> Acheived the accuracy of 99%
+
+- **Curated a course on basic concepts of Machine Learning**
+
+    <ul>
 
 - [Project 3 Title]
 - [Project 4 Title]
