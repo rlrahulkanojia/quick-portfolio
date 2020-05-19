@@ -6,7 +6,7 @@ Implemented Architecture of Efficent Net B 0-7 (<a href='https://ai.googleblog.c
 
 <img src="images/efficient/efficient_blocks.png?raw=true"/>
 
-<a href='https://github.com/rlrahulkanojia/cifar_efficient'>Link</a> to Project 
+<a href='https://github.com/rlrahulkanojia/efficient'>Link</a> to Project 
 
 
 ### 1. Validation Of parameters

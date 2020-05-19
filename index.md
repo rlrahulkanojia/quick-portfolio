@@ -8,10 +8,16 @@
 Implemented Efficient Net Architecture <br>
 <img src="images/efficient/efficient_blocks.png?raw=true"/>
 
+---
+
 [SRGAN](/SRGAN)<br>
-<!-- <img src="images/efficient/efficient_blocks.png?raw=true"/> -->
+<img src="images/SRGAN/architecture.png?raw=true"/>
 
 ---
+[SPELLING BEE](/SpellingBee)
+<img src="images/spelling/main.png?raw=true"/>
+
+------------
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
@@ -25,14 +31,14 @@ Implemented Efficient Net Architecture <br>
 
 - **Detection and Monitoring agriculture field**
 
-    <ul> Computer Vision techniques like errosion, Gaussian Blur etc for enhancement of input received.
-    <ul> Tensorflow Object detection, after training on custom Dataset for object detection. 
-    <ul> The model recieved its input from drone camera and details of the output can be monitored remotely.
+    <ul> Computer Vision techniques like errosion, Gaussian Blur etc for enhancement of input received.</ul>
+    <ul> Tensorflow Object detection, after training on custom Dataset for object detection. </ul>
+    <ul> The model recieved its input from drone camera and details of the output can be monitored remotely. </ul>
 
 - **Custom Person Detection Using Tensorflow Object detection API**
 
-    <ul> Used Tensorflow object detection with some modifications
-    <ul> Acheived the accuracy of 99%
+    <ul> Used Tensorflow object detection with some modifications. </ul>
+    <ul> Acheived the accuracy of 99%. </ul>
 
 - **Curated a course on basic concepts of Machine Learning**
 
