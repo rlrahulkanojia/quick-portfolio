@@ -6,12 +6,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   in computer vision and bring some of the solutions to edge devices. I am also responsible 
   for providing research support by analysing research papers and theory validation.
 
-  <br>
+  <br><br>
   
   Apart from deep learning, I am well aquainted with services like Google Cloud Platform,
   Amazon Web services, Flask, Kubernates and Continous Deployment.
 
-  <br><a href="https://www.linkedin.com/in/rlrahulkanojia/"> View My LinkedIn Profile </a> 
+  <br><br><a href="https://www.linkedin.com/in/rlrahulkanojia/"> View My LinkedIn Profile </a> 
 
   
 theme: jekyll-theme-minimal
