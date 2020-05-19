@@ -14,11 +14,18 @@ Implemented Efficient Net Architecture <br>
 <img src="images/SRGAN/architecture.png?raw=true"/>
 
 ---
+
 [SPELLING BEE](/SpellingBee)<br><br>
 <img src="images/spelling/main.png?raw=true"/>
 
 ---
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) https://github.com/rlrahulkanojia/Blink-Detection --> 
+
+[Blink Detection](/Blink)<br><br>
+<!-- <img src="images/spelling/main.png?raw=true"/> -->
+
+---
+
+[CV](/pdf/2020-May.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
