@@ -14,5 +14,5 @@ The architecture of SRGAN consists of a Generator and a Discriminator. The Gener
 ### 2. Link to source Code
 
 The Code has been implemented in Google Colaboratory and is ready to use and free to extend to other aplications.
-The code can be found <a href='https://colab.research.google.com/drive/1CNhuEKtLzUhlHhw5ag-6FLjZj8Pe_I8o#scrollTo=K6Ccj64AtlK8'>here</a>
+The code can be found <a href='https://colab.research.google.com/drive/1CNhuEKtLzUhlHhw5ag-6FLjZj8Pe_I8o#scrollTo=K6Ccj64AtlK8'>**HERE**</a>
 
