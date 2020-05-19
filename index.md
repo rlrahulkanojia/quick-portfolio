@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Efficent Net Backbone](/effcientNet)
+[Efficent Net Backbone](/efficientNet)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
