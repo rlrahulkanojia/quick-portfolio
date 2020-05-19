@@ -2,9 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/efficientNet)
+[Efficient Net Architecture](/efficientNet)
+<img src="images/efficient/efficient_blocks.png?raw=true"/>
+
+[SRGAN](/SRGAN)
 <img src="images/efficient/efficient_blocks.png?raw=true"/>
 
 ---
