@@ -1,11 +1,21 @@
 title: Rahul Kanojia # your name (or website title) here
-logo: "/images/IMG_20200502_180332_888.jpg?raw=true" # your photo (or logo) here
+logo: "/images/main.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+
+  I am currently with UnrealAI where I apply deep learning to solve real-world problems 
+  in computer vision and bring some of the solutions to edge devices. I am also responsible 
+  for providing research support by analysing reseach papers and theory validation.
+
   <br><br>
-  Second description 
+  
+  Apart from deep learning, I am well aquainted with services like Google Cloud Platform,
+  Amazon Web services, Flask, Kubernates and Continous Deployment.
+
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rlrahulkanojia/"> View My LinkedIn Profile </a> 
+  <a href="https://github.com/rlrahulkanojia"> View My Github Profile </a>
+
   
 theme: jekyll-theme-minimal
 google_analytics: G-9GVD51K8XH # your Google Analytics tracking ID here
