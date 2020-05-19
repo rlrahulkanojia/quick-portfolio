@@ -4,10 +4,11 @@
 
 ### Projects
 
-[Efficient Net Architecture](/efficientNet)
+[Efficient Net Architecture](/efficientNet) <br>
+Implemented Efficient Net Architecture <br>
 <img src="images/efficient/efficient_blocks.png?raw=true"/>
 
-[SRGAN](/SRGAN)
+[SRGAN](/SRGAN) <br>
 <!-- <img src="images/efficient/efficient_blocks.png?raw=true"/> -->
 
 ---
