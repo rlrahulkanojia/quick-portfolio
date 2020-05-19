@@ -8,7 +8,7 @@
 <img src="images/efficient/efficient_blocks.png?raw=true"/>
 
 [SRGAN](/SRGAN)
-<img src="images/efficient/efficient_blocks.png?raw=true"/>
+<!-- <img src="images/efficient/efficient_blocks.png?raw=true"/> -->
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
