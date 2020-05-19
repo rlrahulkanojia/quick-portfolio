@@ -16,3 +16,5 @@ The model consists of Gated Recurrent Units, Long Short Term Memory and MultiRNN
     <ul> Acheived the accuracy of 96.2%.</ul>
     <ul> Subimtted as my semester project in Third year of college.
 
+The Source Code of the project can be found <a href='https://github.com/rlrahulkanojia/Spelling_bee'>**HERE**</a>
+

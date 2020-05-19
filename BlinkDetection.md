@@ -2,7 +2,7 @@
 
 **Project description:** 
 
-Super Resolution Generative Adversial Network takes low resolution images as input and generates the same image with higher resolution. This project uses public figure dataset. 
+The input is pair of the images of the person and the cloth. The output is the fitted image of the cloth on the person. 
 
 
 ### 1. Architecture Details
