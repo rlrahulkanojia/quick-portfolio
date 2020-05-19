@@ -17,13 +17,17 @@
 
 ---
 
-### Category Name 2
+### Projects under Non-Disclosure
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- **Detection and Monitoring agriculture field**
+
+    Used computer Vision techniques like errosion, Gaussian Blur etc for enhancement of input received and tensorflow Object detection, after training on custom Dataset for object detection. The model recieved its input from drone camera and details of the output can be monitored remotely.
+
+- **Person Detection Using Tensorflow Object detection API**
+
+- [Project 3 Title]
+- [Project 4 Title]
+- [Project 5 Title]
 
 ---
 
