@@ -11,7 +11,7 @@ Implemented Efficient Net Architecture <br>
 ---
 
 [SRGAN](/SRGAN)<br>
-<img src="images/SRGAN/architecture.png?raw=true"/>
+<img src="images/SRGAN/output.png?raw=true"/>
 
 ---
 
