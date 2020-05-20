@@ -1,4 +1,4 @@
-## Super Resolution Generative Adversial Network 
+## Blink Detection Using State Machines
 
 **Project description:** 
 
@@ -15,6 +15,8 @@ The theory used in this project is based upon a popular concept in Theory of Com
 </ul>
 
 The current state is derived from the position of the face landmarks. Based on those landmarkds, the state is changed. As the state of the eye is chnaged, the counter increases and the blinks are calculated.
+
+<img src="images/Blink/state.jpg?raw=true"/>
 
 
 ### 2. Link to source Code
