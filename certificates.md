@@ -1,6 +1,6 @@
-## Spelling Bee
+## Certificates
 
-**Certificates:**
+
 These are the courses that helped me complete the earlier courses 
 
 <a href='certies/Architecting Google Kubernates.pdf'>Architecting Google Kubernates</a>
