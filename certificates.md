@@ -1,5 +1,20 @@
-**Certificates:** 
+## Spelling Bee
 
-The courses which helped me build the previous mentioned projects
+**Project description:** 
+The project aims at learning a model that can take in the pronunciation of a word as a list of phonemes, and try to spell it. One difficulty is this model will be evaluated on how well it can spell words that it has never seen before
 
-<a href='/certies/Architecting Google Kubernates.pdf'>Architecting Google Kubernates</a>
+### 1. Architecture Details
+
+The model consists of Gated Recurrent Units, Long Short Term Memory and MultiRNN cells. These are used they preserve information that the model has learnt over different durations, which is necessary to predict the correct spelling of the phonemes.
+
+<img src="images/spelling/gru.png?raw=true"/>
+<img src="images/spelling/LSTM.jpg?raw=true"/>
+
+### 2. Features
+
+    <ul> Created model from scratch including the batch iterator and feed funtions.</ul>
+    <ul> Acheived the accuracy of 96.2%.</ul>
+    <ul> Subimtted as my semester project in Third year of college.
+
+The Source Code of the project can be found <a href='https://github.com/rlrahulkanojia/Spelling_bee'>**HERE**</a>
+
