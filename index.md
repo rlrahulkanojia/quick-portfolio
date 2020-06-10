@@ -4,7 +4,7 @@
 
 ## Certificates
 
-[Certificates](/efficientNet) <br>
+[Certificates](/certificates) <br>
 
 
 ### Projects
