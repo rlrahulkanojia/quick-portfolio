@@ -2,6 +2,10 @@
 
 ---
 
+## Certificates
+
+[Certificates](/certificates) 
+
 ### Projects
 
 [Efficient Net Architecture](/efficientNet) <br>
